@@ -3,3 +3,8 @@ production.tar.gz
 
 .env
 .env.*
+
+# Sanity Functions
+functions/**/.env*
+functions/**/.build/
+functions/**/node_modules/
